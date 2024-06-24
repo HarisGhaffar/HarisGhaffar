@@ -9,4 +9,14 @@
 - 📫 How to reach me: <a mailto="contact.harisg@gmail.com">Haris Ghaffar</a>
 - 😄 Pronouns: He/His/Him
 - ⚡ Fun fact: I'm not that serious
--->
+
+# Skills Sets:
+<table>
+  <tr>
+    <td > 
+      <img src="https://en.wikipedia.org/wiki/HTML#/media/File:HTML5_logo_and_wordmark.svg" height="100px" width="100px"/> 
+    </td>
+  </tr>
+</table>
+
+

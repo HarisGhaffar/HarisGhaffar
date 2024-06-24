@@ -54,10 +54,12 @@
   </tr>
 </table>
 
-# Connect with me
+ ## Connect with me🤝:
 <div align="center">
-  <a href="https://www.linkedin.com/in/harisghaffar/" target="_blank"> <img src="https://github.com/HarisGhaffar/HarisGhaffar/blob/main/li.png" height="60px" width="60px"/> </a>
-   <a href="https://leetcode.com/u/HarisGhaffar" target="_blank"> <img src="https://github.com/HarisGhaffar/HarisGhaffar/blob/main/leetcode1.png" height="60px" width="60px"/> </a>
+    <a href="https://www.linkedin.com/in/harisghaffar/" target="_blank"><img src="https://img.shields.io/badge/-Arham%20Ansari-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+    <a target="_blank" href="mailto:arham96100@gmail.com"><img src="https://img.shields.io/badge/-contact.harisg@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+    <a href="https://leetcode.com/u/HarisGhaffar/" target="_blank"><img src="https://img.shields.io/badge/-Arham%20Ansari-FFA116?style=flat&logo=LeetCode&logoColor=white"/></a>
+    <a href="https://lablab.ai/u/@haris_ghaffar888" target="_blank"><img src="https://img.shields.io/badge/-LabLab Profile-3B5998?style=flat&logo=LabLab&logoColor=white"/></a>
 </div>
 
  ## Github Stats📈:

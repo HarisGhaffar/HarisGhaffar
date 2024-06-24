@@ -56,7 +56,7 @@
 
 # Connect with me
 <div align="center">
-  <a href="https://www.linkedin.com/in/harisghaffar/">LinkedIn Profile</a>
+  <a href="https://www.linkedin.com/in/harisghaffar/" target="_blank"> <img src="https://github.com/HarisGhaffar/HarisGhaffar/blob/main/li.png" height="20px" width="20px"/> </a>
 </div>
 
 

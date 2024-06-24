@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate with other developers ...
 - 🤔 I’m looking for help with my Github Profile...
 - 💬 Ask me about GitHub
-- 📫 How to reach me: <a mailto="contact.harisg@gmail.com"> </a>
+- 📫 How to reach me: <a mailto="contact.harisg@gmail.com">Haris Ghaffar</a>
 - 😄 Pronouns: He/His/Him
 - ⚡ Fun fact: I'm not that serious
 -->

@@ -26,7 +26,7 @@
 ### Backend  
 <a href="https://github.com/HarisGhaffar">
 <div align="center">   
-      <img src="https://skillicons.dev/icons?i=php,mysql,firebase,nodejs,express,mongodb&perline=4" /> 
+      <img src="https://skillicons.dev/icons?i=php,mysql,nodejs,mongodb&perline=4" /> 
 </div>
 </a>
 </td><td valign="top" width="25%">
@@ -34,7 +34,7 @@
 ### Languages
 <a href="https://github.com/HarisGhaffar">
 <div align="center">
-       <img src="https://skillicons.dev/icons?i=js,php,cpp,java,python,&perline=4" /> 
+       <img src="https://skillicons.dev/icons?i=js,php,python,&perline=4" /> 
 </div>
 </a>
 
@@ -43,7 +43,7 @@
 ### Others
 <a href="https://github.com/HarisGhaffar">
 <div align="center">
-       <img src="https://skillicons.dev/icons?i=git,github,npm,figma,vscode,postman,netlify,vite,vercel,heroku,discord,stackoverflow,vscodeqt&perline=4" /> 
+       <img src="https://skillicons.dev/icons?i=git,github,npm,figma,vscode,netlify,discord,stackoverflow,vscodeqt&perline=4" /> 
 </div>
 </a>
 </td>

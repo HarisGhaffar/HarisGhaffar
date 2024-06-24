@@ -13,7 +13,40 @@
 # Skills Sets:
 <table>
   <tr>
-    <td > 
+  <td valign="top" width="25%">
+
+### Frontend  
+<a href="https://github.com/HarisGhaffar">
+<div align="center">  
+       <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,materialui&perline=4" /> 
+</div>
+</a>
+
+### Backend  
+<a href="https://github.com/HarisGhaffar">
+<div align="center">   
+      <img src="https://skillicons.dev/icons?i=php,mysql,firebase,nodejs,express,mongodb&perline=4" /> 
+</div>
+</a>
+</td><td valign="top" width="25%">
+### Languages
+<a href="https://github.com/HarisGhaffar">
+<div align="center">
+       <img src="https://skillicons.dev/icons?i=js,php,cpp,java,python,&perline=4" /> 
+</div>
+</a>
+
+</td><td valign="top" width="25%">
+  
+### Others
+<a href="https://github.com/HarisGhaffar">
+<div align="center">
+       <img src="https://skillicons.dev/icons?i=git,github,npm,figma,vscode,postman,netlify,vite,vercel,heroku,discord,stackoverflow,vscodeqt&perline=4" /> 
+</div>
+</a>
+</td>
+    
+<!--     <td > 
       <img src="https://github.com/HarisGhaffar/HarisGhaffar/blob/main/html.png" height="100px" width="100px"/> 
     </td>
     <td > 
@@ -50,7 +83,7 @@
     </td>
     <td > 
       <img src="https://github.com/HarisGhaffar/HarisGhaffar/blob/main/cv.png" height="100px" width="100px"/> 
-    </td>
+    </td> -->
   </tr>
 </table>
 

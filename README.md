@@ -60,9 +60,18 @@
    <a href="https://leetcode.com/u/HarisGhaffar" target="_blank"> <img src="https://github.com/HarisGhaffar/HarisGhaffar/blob/main/leetcode1.png" height="60px" width="60px"/> </a>
 </div>
 
-# Github Stats
-<div>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=HarisGhaffar)](https://git.io/streak-stats)
+ ## Github Stats📈:
+<p align="center">
+    <a href="https://github.com/HarisGhaffar">
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=HarisGhaffar&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/>
+        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HarisGhaffar&langs_count=12&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true&hide_border=true" />
+    </a>
+</p>
 
+ <p align="center">
+   <a href="https://github.com/HarisGhaffar"> 
+     <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=HarisGhaffar&theme=algolia&hide_border=true" /> 
+   </a>  
+ </p>
 
-</div>
+<br>

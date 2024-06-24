@@ -62,7 +62,7 @@
 
 # Github Stats
 <div>
-[![Haris's GitHub stats](https://github-readme-stats.vercel.app/api?username=HarisGhaffar)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=HarisGhaffar)](https://git.io/streak-stats)
 
 
 </div>

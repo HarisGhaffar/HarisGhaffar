@@ -1,16 +1,18 @@
 [![LeetCode user HarisGhaffar](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FHarisGhaffar&logo=leetcode&logoColor=yellow)](https://leetcode.com/u/HarisGhaffar/)
 
+### About Me🚀:
+Hi there! I'm Haris Ghaffar, a dynamic software engineer hailing from Pakistan👋. Passionate about breaking new ground in technology, I've had the honor of my FYP, Fire Guard, securing Ignite Funding from the Ministry of IT & Telecom of Pakistan. I thrive on innovation, love collaborating on exciting projects, and am always eager to create solutions that make a real impact. Let’s connect and turn ideas into reality! 💻
+
 <!-- Bio -->
 - 🔭 Currently working as Software Engineer.
 - 👨‍🏫 Student at <a href="https://icodeguru.weebly.com/" target="_blank">iCodeGuru</a>.
-- 🌱 Actively participating in coding competitions & hackathons.
+- 🌱 Love to Participate in hackathons.
 - 🌱 I love to tackle complex Data Structures and Algorithms problems
-- 🥅 2024 Goals: Contribute more to Open Source projects.
 - 📫 How to reach me **contact.harisg@gmail.com**
 - 📞 Don't hesitate to reach out & let's connect and start a conversation.
 
 
-# Skills Sets:
+## My Skill Set 🛠️:
 <table>
   <tr>
   <td valign="top" width="25%">

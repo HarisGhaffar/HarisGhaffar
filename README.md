@@ -60,4 +60,7 @@
    <a href="https://leetcode.com/u/HarisGhaffar" target="_blank"> <img src="https://github.com/HarisGhaffar/HarisGhaffar/blob/main/leetcode1.png" height="60px" width="60px"/> </a>
 </div>
 
-
+# Github Stats
+<div>
+ [![Haris's GitHub stats](https://github-readme-stats.vercel.app/api?username=harisghaffar)](https://github.com/harisghaffar/github-readme-stats)
+</div>

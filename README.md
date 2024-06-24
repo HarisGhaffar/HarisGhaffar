@@ -57,8 +57,7 @@
 # Connect with me
 <div align="center">
   <a href="https://www.linkedin.com/in/harisghaffar/" target="_blank"> <img src="https://github.com/HarisGhaffar/HarisGhaffar/blob/main/li.png" height="40px" width="40px"/> </a>
-  
-   <a href="https://leetcode.com/u/HarisGhaffar" target="_blank"> <img src="https://github.com/HarisGhaffar/HarisGhaffar/blob/main/leetcode.png" height="40px" width="40px"/> </a>
+   <a href="https://leetcode.com/u/HarisGhaffar" target="_blank"> <img src="https://github.com/HarisGhaffar/HarisGhaffar/blob/main/leetcode1.png" height="40px" width="40px"/> </a>
 </div>
 
 

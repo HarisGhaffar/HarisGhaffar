@@ -1,6 +1,4 @@
-<h1> Hello I'm Haris Ghaffar</h1>
-
-
+# Top [![committers.top badge](https://user-badge.committers.top/pakistan/HarisGhaffar.svg)](https://user-badge.committers.top/pakistan/HarisGhaffar)th Pakistani Github Contributor.
 - 🔭 I’m currently working on Github Readme File
 - 🌱 I’m currently learning Github
 - 👯 I’m looking to collaborate with other developers ... 

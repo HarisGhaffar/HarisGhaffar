@@ -31,7 +31,8 @@
     <td > 
       <img src="https://github.com/HarisGhaffar/HarisGhaffar/blob/main/oc.png" height="100px" width="100px"/> 
     </td>
-      </tr>
+  </tr>
+  
     <tr>
     <td > 
       <img src="https://github.com/HarisGhaffar/HarisGhaffar/blob/main/py.png" height="100px" width="100px"/> 
@@ -39,8 +40,7 @@
     <td > 
       <img src="https://github.com/HarisGhaffar/HarisGhaffar/blob/main/gt.png" height="100px" width="100px"/> 
     </td>
-
-    <td > 
+    <td> 
       <img src="https://github.com/HarisGhaffar/HarisGhaffar/blob/main/bs.png" height="100px" width="100px"/> 
     </td>
     <td > 

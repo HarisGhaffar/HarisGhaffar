@@ -37,6 +37,18 @@
     <td > 
       <img src="https://github.com/HarisGhaffar/HarisGhaffar/blob/main/gt.png" height="100px" width="100px"/> 
     </td>
+    <td > 
+      <img src="https://github.com/HarisGhaffar/HarisGhaffar/blob/main/bs.png" height="100px" width="100px"/> 
+    </td>
+    <td > 
+      <img src="https://github.com/HarisGhaffar/HarisGhaffar/blob/main/tc.png" height="100px" width="100px"/> 
+    </td>
+    <td > 
+      <img src="https://github.com/HarisGhaffar/HarisGhaffar/blob/main/dg.png" height="100px" width="100px"/> 
+    </td>
+    <td > 
+      <img src="https://github.com/HarisGhaffar/HarisGhaffar/blob/main/cv.png" height="100px" width="100px"/> 
+    </td>
   </tr>
 </table>
 

@@ -6,7 +6,7 @@
 - 🌱 Actively participating in coding competitions & hackathons.
 - 🌱 I love to tackle complex Data Structures and Algorithms problems
 - 🥅 2024 Goals: Contribute more to Open Source projects.
-- 📫 How to reach me <a target="_blank" href="mailto:contact.harisg@gmail.com"><img src="https://img.shields.io/badge/-contact.harisg@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>.
+- 📫 How to reach me **contact.harisg@gmail.com**
 - 📞 Don't hesitate to reach out & let's connect and start a conversation.
 
 

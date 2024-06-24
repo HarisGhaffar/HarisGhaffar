@@ -1,4 +1,5 @@
-# Top [![committers.top badge](https://user-badge.committers.top/pakistan/HarisGhaffar.svg)](https://user-badge.committers.top/pakistan/HarisGhaffar)th Pakistani Github Contributor.
+[![LeetCode user HarisGhaffar](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FHarisGhaffar&logo=leetcode&logoColor=yellow)](https://leetcode.com/u/HarisGhaffar/)
+
 - 🔭 I’m currently working on Github Readme File
 - 🌱 I’m currently learning Github
 - 👯 I’m looking to collaborate with other developers ... 
@@ -8,7 +9,7 @@
 - 😄 Pronouns: He/His/Him
 - ⚡ Fun fact: I'm not that serious
 
-[![LeetCode user HarisGhaffar](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FHarisGhaffar&logo=leetcode&logoColor=yellow)](https://leetcode.com/u/HarisGhaffar/)
+
 # Skills Sets:
 <table>
   <tr>

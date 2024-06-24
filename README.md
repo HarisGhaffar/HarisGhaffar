@@ -43,7 +43,7 @@
 ### Others
 <a href="https://github.com/HarisGhaffar">
 <div align="center">
-       <img src="https://skillicons.dev/icons?i=git,github,npm,figma,vscode,netlify,discord,stackoverflow,vscodeqt&perline=4" /> 
+       <img src="https://skillicons.dev/icons?i=git,github,npm,figma,vscode,netlify,discord,stackoverflow&perline=4" /> 
 </div>
 </a>
 </td>

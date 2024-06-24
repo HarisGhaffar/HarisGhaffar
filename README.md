@@ -19,7 +19,7 @@
 ### Frontend  
 <a href="https://github.com/HarisGhaffar">
 <div align="center">  
-       <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,materialui&perline=4" /> 
+       <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react&perline=4" /> 
 </div>
 </a>
 

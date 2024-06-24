@@ -1,13 +1,13 @@
 [![LeetCode user HarisGhaffar](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FHarisGhaffar&logo=leetcode&logoColor=yellow)](https://leetcode.com/u/HarisGhaffar/)
 
-- 🔭 I’m currently working on Github Readme File
-- 🌱 I’m currently learning Github
-- 👯 I’m looking to collaborate with other developers ... 
-- 🤔 I’m looking for help with my Github Profile...
-- 💬 Ask me about GitHub
-- 📫 How to reach me: <a mailto="contact.harisg@gmail.com">Haris Ghaffar</a>
-- 😄 Pronouns: He/His/Him
-- ⚡ Fun fact: I'm not that serious
+<!-- Bio -->
+- 🔭 Currently working as Software Engineer.
+- 👨‍🏫 Student at <a href="https://icodeguru.weebly.com/" target="_blank">iCodeGuru</a>.
+- 🌱 Actively participating in coding competitions & hackathons.
+- 🌱 I love to tackle complex Data Structures and Algorithms problems
+- 🥅 2024 Goals: Contribute more to Open Source projects.
+- 📫 How to reach me **contact.harisg@gmail.com**.
+- 📞 Don't hesitate to reach out & let's connect and start a conversation.
 
 
 # Skills Sets:

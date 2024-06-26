@@ -1,5 +1,15 @@
 [![LeetCode user HarisGhaffar](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FHarisGhaffar&logo=leetcode&logoColor=yellow)](https://leetcode.com/u/HarisGhaffar/)
 
+<div align="center">
+  <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
+  <br />
+  <br />
+  <img height="50" alt="My Name is Livio and I like Node.js" src="images/personal_note.svg" />
+  <br />
+  <br />
+
+</div>
+
 ### About Me🚀:
 Hi there! I'm Haris Ghaffar, a dynamic software engineer hailing from Pakistan👋. Passionate about breaking new ground in technology, I've had the honor of my FYP, Fire Guard, securing Ignite Funding from the Ministry of IT & Telecom of Pakistan. I thrive on innovation, love collaborating on exciting projects, and am always eager to create solutions that make a real impact. Let’s connect and turn ideas into reality! 💻
 

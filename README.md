@@ -36,7 +36,7 @@ Hi there! I'm Haris Ghaffar, a dynamic software engineer hailing from PakistanğŸ
 ### Backend  
 <a href="https://github.com/HarisGhaffar">
 <div align="center">   
-      <img src="https://skillicons.dev/icons?i=php,mysql,nodejs,mongodb&perline=4" /> 
+      <img src="https://skillicons.dev/icons?i=mysql,nodejs,mongodb&perline=4" /> 
 </div>
 </a>
 </td><td valign="top" width="25%">
@@ -44,7 +44,7 @@ Hi there! I'm Haris Ghaffar, a dynamic software engineer hailing from PakistanğŸ
 ### Languages
 <a href="https://github.com/HarisGhaffar">
 <div align="center">
-       <img src="https://skillicons.dev/icons?i=js,php,python,&perline=4" /> 
+       <img src="https://skillicons.dev/icons?i=js,python,&perline=4" /> 
 </div>
 </a>
 

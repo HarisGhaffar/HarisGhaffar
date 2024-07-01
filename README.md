@@ -53,7 +53,7 @@ Hi there! I'm Haris Ghaffar, a dynamic software engineer hailing from PakistanğŸ
 ### Others
 <a href="https://github.com/HarisGhaffar">
 <div align="center">
-       <img src="https://skillicons.dev/icons?i=git,github,npm,figma,vscode,netlify,discord,stackoverflow&perline=4" /> 
+       <img src="https://skillicons.dev/icons?i=git,github,npm,figma,vscode,discord&perline=4" /> 
 </div>
 </a>
 </td>

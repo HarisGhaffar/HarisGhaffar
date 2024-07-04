@@ -84,7 +84,7 @@ Hi there! I'm Haris Ghaffar, a dynamic software engineer <img src="https://media
  </p>
 
 <br>
-### ✍️ Blog Posts : 
-- [Don't get Scammed ](https://medium.com/@contact.harisg)
 
+### ✍️ Blog Posts :
+- [Don't Get Scammed](https://medium.com/@contact.harisg)
 <!-- BLOG-POST-LIST:END -->

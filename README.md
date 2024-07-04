@@ -10,7 +10,7 @@
 </div>
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
 ### About Me🚀:
-Hi there! I'm Haris Ghaffar, a dynamic software engineer hailing from Pakistan👋. Passionate about breaking new ground in technology, I've had the honor of my FYP, Fire Guard, securing Ignite Funding from the Ministry of IT & Telecom of Pakistan. I thrive on innovation, love collaborating on exciting projects, and am always eager to create solutions that make a real impact. Let’s connect and turn ideas into reality! 💻
+Hi there! I'm Haris Ghaffar, a dynamic software engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> hailing from Pakistan👋. Passionate about breaking new ground in technology, I've had the honor of my FYP, Fire Guard, securing Ignite Funding from the Ministry of IT & Telecom of Pakistan. I thrive on innovation, love collaborating on exciting projects, and am always eager to create solutions that make a real impact. Let’s connect and turn ideas into reality! 💻
 
 <!-- Bio -->
 - 🔭 Currently working as Software Engineer.
